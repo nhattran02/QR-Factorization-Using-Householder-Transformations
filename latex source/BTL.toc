@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}CƠ SỞ LÍ THUYẾT PHÂN TÍCH A=QR BẰNG BIẾN ĐỔI HOUSEHOLDER}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}GIỚI THIỆU THUẬT TOÁN A=QR}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Khái niệm phân rã QR}{2}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Ý tưởng của thuật toán QR}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Quy trình Gram-Schmidt}{2}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Phản chiếu Householder}{4}{subsubsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.2}Lí thuyết và thuật toán}{5}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Đối với ma trận vuông}{5}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Đối với ma trận hình chữ nhật}{5}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}Thuật toán phép biến đổi Householder}{5}{subsubsection.1.2.3}%
+\contentsline {section}{\numberline {2}CHƯƠNG TRÌNH MATLAB }{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Chương trình phân tích A=QR}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Chương trình tính R và $Q^{T}b$}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Ví dụ minh họa}{8}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Các ứng dụng của phép phân tích A = QR}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Giải quyết các bài toán tìm giá trị riêng:}{11}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Các bước tìm trị riêng bằng phương pháp QR }{11}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Công thức cần lưu ý}{11}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Ví dụ}{11}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Ứng dụng trong MIMO}{13}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Giải quyết vấn đề bình phương cực tiểu}{15}{subsection.3.3}%
